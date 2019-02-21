@@ -1,5 +1,5 @@
 # Machine Learning Resources
-A curated list of machine learning resources relevant to research at Jefferson Laboratory 
+A curated list of machine learning resources relevant to research at Jefferson Laboratory ![Awesome](https://awesome.re/badge.svg)
 
 ## Table of Contents
 ---
