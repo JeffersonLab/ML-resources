@@ -5,8 +5,8 @@ A curated list of machine learning resources relevant to research at Jefferson L
 ---
 - [Bayesian Optimization](#bayesian-optimization)
 - [Gaussian Processes](#gaussian-processes)
-- [Tracking](#tracking)
 - [General](#general)
+- [Tracking](#tracking)
 
 ---
 
@@ -19,6 +19,10 @@ A curated list of machine learning resources relevant to research at Jefferson L
 
 - ["Gaussian Processes: A Quick Introduction"](https://arxiv.org/abs/1505.02965) [13 pages]
 
+### General
+
+- ["A High-bias, Low-variance Introduction to Machine Learning for Physicists"](https://arxiv.org/abs/1803.08823) [122 pages]
+
 ### Tracking
 
 - JLab projects:
@@ -27,10 +31,4 @@ A curated list of machine learning resources relevant to research at Jefferson L
     - [TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification) [Kaggle competition]
 - Articles:
     - [Novel deep learning methods for track reconstruction](https://arxiv.org/pdf/1810.06111.pdf) [Article arxiv hep-ex 14 Oct 2018]
-
-### General
-
-- ["A High-bias, Low-variance Introduction to Machine Learning for Physicists"](https://arxiv.org/abs/1803.08823) [122 pages]
-
-
-
+    
